@@ -1,4 +1,4 @@
-# Monthly rent and noise exposure of the population of the city of Barcelona: Analysis and Dimensionality Reduction
+# Monthly rent and noise exposure of the population of the city of Barcelona: Analysis and dimensionality reduction
 Task for the hackathon within Jump2digital 16017 Nov 2023.
 
 ## Objective
