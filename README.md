@@ -1,8 +1,7 @@
 # Monthly rent and noise exposure of the population of the city of Barcelona: Analysis and dimensionality reduction
-Task for the hackathon within Jump2digital 2023.
 
-## Objective
-Reduce the dimensionality of the combined dataset containing data on average monthly rent and population noise exposure in the city of Barcelona through Principal Component Analysis (PCA).
+This project is dedicated to the analysis of rental prices and population noise exposure in Barcelona neigborhoods. Principal Component Analysis (PCA) was applied to reduce the dimensionality of the combined dataset. Creating a lower-dimensional feature space may be useful, for example, to optimize and enhance the performance of models for predicting rental prices or classifying objects into neighborhoods/districts.<br>
+This project was performed as a task for the Jump2digital 2023 hackathon.
 
 ## 1. Introduction
 Analysis conducted in this study focuses on rental prices (["Average monthly rent of the city of Barcelona"](https://opendata-ajuntament.barcelona.cat/data/en/dataset/est-mercat-immobiliari-lloguer-mitja-mensual/resource/0a71a12d-55fa-4a76-b816-4ee55f84d327)) and the percentages of the population exposed to different noise levels (["Exposed population to the noise levels from Strategic Noise Map of the city of Barcelona"](https://opendata-ajuntament.barcelona.cat/data/en/dataset/poblacio-exposada-mapa-estrategic-soroll/resource/3846500e-72aa-4780-967f-f09aa184eaba)) in the city of Barcelona.  
