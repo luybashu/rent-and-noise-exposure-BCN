@@ -1,5 +1,5 @@
 # Monthly rent and noise exposure of the population of the city of Barcelona: Analysis and dimensionality reduction
-Task for the hackathon within Jump2digital 16017 Nov 2023.
+Task for the hackathon within Jump2digital 2023.
 
 ## Objective
 Reduce the dimensionality of the combined dataset containing data on average monthly rent and population noise exposure in the city of Barcelona through Principal Component Analysis (PCA).
